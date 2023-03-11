@@ -822,7 +822,7 @@ to AWS resources.
 
 ### 1.3.6. AWS Organizations
 
-Stanard Account: it is a single  AWS account which is **NOT** within oranganization
+**Standard Account**: it is a single  AWS account which is **NOT** within oranganization
 Without an organization, each AWS account needs it's own set of IAM users
 as well as individual payment methods.
 If you have more than 5 to 10 accounts, you would want to use an org.
