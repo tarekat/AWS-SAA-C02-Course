@@ -60,9 +60,31 @@ You pay for the facilities only.
 3. Infrastructure as a Service (IaaS): Vendor manages facilities and everything
 else related to servers up to the OS. You pay per second or minute for the OS
 used to the vendor. Lose some flexibility, but big risk reductions.
+  Amazon Web Services (AWS)
+  Google Compute Engine (GCE)
+  IBM Cloud
+  Microsoft Azure
+  Rackspace
+  Linode
+  Cisco Metacloud
+  Digital Ocean
+  Vultr
+  Oracle Cloud
+
 4. Platform as a Service (PaaS): Good for running an application only. The
 unit of consumption is the runtime environment. You manage the application
 and the data, but the vendor manges all else.
+  Amazon Web Services (AWS)
+Google Compute Engine (GCE)
+IBM Cloud
+Microsoft Azure
+Rackspace
+Linode
+Cisco Metacloud
+Digital Ocean
+Vultr
+Oracle Cloud
+
 5. Software as a Service (SaaS): You consume the software as a service. This
 can be Outlook or Netflix. There are almost no risks or additional costs, but
 very little control. 
