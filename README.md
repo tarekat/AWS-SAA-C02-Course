@@ -65,7 +65,17 @@ unit of consumption is the runtime environment. You manage the application
 and the data, but the vendor manges all else.
 5. Software as a Service (SaaS): You consume the software as a service. This
 can be Outlook or Netflix. There are almost no risks or additional costs, but
-very little control.
+very little control. 
+  Salesforce
+  Cisco WebEx
+  Dropbox
+  ZenDesk
+  MailChimp
+  Slack
+  HubSpot
+  DocuSign
+  Google Apps
+  Microsoft Office 365
 
 There are additional services such as *Function as a Service*,
 *Container as a Service*, and *DataBase as a Service* which be explained later.
